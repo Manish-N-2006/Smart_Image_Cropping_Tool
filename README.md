@@ -13,7 +13,7 @@
 
 ---
 
-##🧠 Tech Stack
+## 🧠 Tech Stack
 
 - Python 3.10
 - OpenCV (cv2)
